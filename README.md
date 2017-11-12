@@ -1,2 +1,3 @@
 # hello-world
-Apenas outro repositório
+Apenas outro repositório.
+Aprendendo sobre brunch.
